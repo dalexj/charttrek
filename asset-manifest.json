@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/static/css/main.87826fc9.chunk.css",
-    "main.js": "/static/js/main.0fbe6ca9.chunk.js",
-    "main.js.map": "/static/js/main.0fbe6ca9.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.4be3dacf.js",
-    "runtime-main.js.map": "/static/js/runtime-main.4be3dacf.js.map",
-    "static/css/2.d06daf26.chunk.css": "/static/css/2.d06daf26.chunk.css",
-    "static/js/2.e152f702.chunk.js": "/static/js/2.e152f702.chunk.js",
-    "static/js/2.e152f702.chunk.js.map": "/static/js/2.e152f702.chunk.js.map",
-    "static/js/3.e33b129a.chunk.js": "/static/js/3.e33b129a.chunk.js",
-    "static/js/3.e33b129a.chunk.js.map": "/static/js/3.e33b129a.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/2.d06daf26.chunk.css.map": "/static/css/2.d06daf26.chunk.css.map",
-    "static/css/main.87826fc9.chunk.css.map": "/static/css/main.87826fc9.chunk.css.map",
-    "static/js/2.e152f702.chunk.js.LICENSE.txt": "/static/js/2.e152f702.chunk.js.LICENSE.txt"
+    "main.css": "/charttrek/static/css/main.87826fc9.chunk.css",
+    "main.js": "/charttrek/static/js/main.bc046885.chunk.js",
+    "main.js.map": "/charttrek/static/js/main.bc046885.chunk.js.map",
+    "runtime-main.js": "/charttrek/static/js/runtime-main.ac9b4b57.js",
+    "runtime-main.js.map": "/charttrek/static/js/runtime-main.ac9b4b57.js.map",
+    "static/css/2.d06daf26.chunk.css": "/charttrek/static/css/2.d06daf26.chunk.css",
+    "static/js/2.e152f702.chunk.js": "/charttrek/static/js/2.e152f702.chunk.js",
+    "static/js/2.e152f702.chunk.js.map": "/charttrek/static/js/2.e152f702.chunk.js.map",
+    "static/js/3.e33b129a.chunk.js": "/charttrek/static/js/3.e33b129a.chunk.js",
+    "static/js/3.e33b129a.chunk.js.map": "/charttrek/static/js/3.e33b129a.chunk.js.map",
+    "index.html": "/charttrek/index.html",
+    "static/css/2.d06daf26.chunk.css.map": "/charttrek/static/css/2.d06daf26.chunk.css.map",
+    "static/css/main.87826fc9.chunk.css.map": "/charttrek/static/css/main.87826fc9.chunk.css.map",
+    "static/js/2.e152f702.chunk.js.LICENSE.txt": "/charttrek/static/js/2.e152f702.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.4be3dacf.js",
+    "static/js/runtime-main.ac9b4b57.js",
     "static/css/2.d06daf26.chunk.css",
     "static/js/2.e152f702.chunk.js",
     "static/css/main.87826fc9.chunk.css",
-    "static/js/main.0fbe6ca9.chunk.js"
+    "static/js/main.bc046885.chunk.js"
   ]
 }
